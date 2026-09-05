@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.local
+
+# Enthält personenbezogene Testdaten (Studenten-IDs/Namen) - nicht committen
+sample/
